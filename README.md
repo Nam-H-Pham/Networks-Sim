@@ -3,4 +3,7 @@ Network Visualisation Tool. Uses properties of physical fields and attracting pa
  
 ![net](https://github.com/Nam-H-Pham/Networks-Sim/assets/95603897/eb744ba2-0cae-4437-af80-a35cfa19cfca)
 
-![image_327](https://github.com/Nam-H-Pham/Networks-Sim/assets/95603897/852f8765-0d9e-4307-a9f7-f03c18812af7)
+![image](https://github.com/Nam-H-Pham/Networks-Sim/assets/95603897/ab7df5ff-ce1c-409d-a079-45b382a5d11a)<br />
+Matrix represenation of the above chart.<br />
+![image](https://github.com/Nam-H-Pham/Networks-Sim/assets/95603897/970b1b7b-23c2-41dd-a045-1544e7cc28b1)
+
